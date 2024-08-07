@@ -9,9 +9,7 @@
   <h3 align="center">Decentralized Governance dapp</h3>
 
   <p align="center">
-    The
-
- Decentralized Governance dapp is a simple project to create and vote on proposals.
+    The Decentralized Governance dapp is a simple project to create and vote on proposals.
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
@@ -42,7 +40,7 @@ Make sure you have the following installed:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/peaceuzor/dGovernance-dapp.git
+   git clone https://github.com/peaceuzor26/d-governance-dapp.git
    ```
 2. Install NPM packages
    ```sh
